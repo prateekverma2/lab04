@@ -66,7 +66,7 @@ class FlightTable {
     }
 }
 
-public class lab04 {
+public class Assignment4 {
     public static void main(String[] args) {
         FlightTable flightTable = new FlightTable();
 
